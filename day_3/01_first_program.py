@@ -1,0 +1,5 @@
+print("Ammar")
+print(2+3)
+print("we are learning in codanics")
+print("what is your name")
+print(2+3/3-1)
