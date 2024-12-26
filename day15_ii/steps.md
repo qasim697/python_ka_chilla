@@ -11,4 +11,6 @@
       3. handling duplicates
 4. transform data
    1. data normalization
-   2.  
+5. organization
+      1. column creation
+      2. 
